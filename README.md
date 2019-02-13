@@ -4,17 +4,17 @@
 ## Учасники команди:
 
 
-• Назар Дереворіз                                                                                                                                           
+• Назар Дереворіз [(thesilentist)](https://github.com/thesilentist)
 
-• Сергій Сергійчук 
+• Вадим Шкурко [(Vadimuard)](https://github.com/Vadimuard)
 
-• Маріанна Снітко 
+• Сергій Сергійчук [(SergiySergiychuk)](https://github.com/SergiySergiychuk)
 
-• Уляна Дзьоба
+• Маріанна Снітко [(mariannasnitko)](https://github.com/mariannasnitko)
 
-• Ілля Медведєв
+• Уляна Дзьоба [(Uliana Dzyoba)](https://github.com/uliana-dzyoba)
 
-• Вадим Шкурко
+• Ілля Медведєв [(yeahyeahbbbbb)](https://github.com/yeahyeahbbbbb)
 
 • Владислав Мортіков 
 
