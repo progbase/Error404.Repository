@@ -31,6 +31,7 @@
 
 • [GitHub проект](https://github.com/orgs/progbase/projects/7)
 
-• [Таблиця деталей](https://i.gifer.com/QDWt.gif)
+• [Таблиця  отриманих деталей](https://docs.google.com/spreadsheets/d/16fzgbMDlDMzkRPJ2Xh15YEYkxyKOdK2a3I6qHyqXfbA/edit)
 
 • [Презентація ідеї проекту](https://i.gifer.com/QDWt.gif)
+
