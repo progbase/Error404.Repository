@@ -34,5 +34,5 @@
 
 • [Таблиця  отриманих деталей](https://docs.google.com/spreadsheets/d/16fzgbMDlDMzkRPJ2Xh15YEYkxyKOdK2a3I6qHyqXfbA/edit)
 
-• [Презентація ідеї проекту](https://i.gifer.com/QDWt.gif)
+• [Презентація ідеї проекту](https://docs.google.com/presentation/d/1YO2xilD2_seK3neOtgq9rkWlmZL25QIxMGlk7SCvu7w/edit#slide=id.p8)
 
