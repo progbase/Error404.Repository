@@ -16,7 +16,7 @@
 
 • Ілля Медведєв [(yeahyeahbbbbb)](https://github.com/yeahyeahbbbbb)
 
-• Владислав Мортіков 
+• Владислав Мортіков [Vladyslavmortikov](https://github.com/Vladyslavmortikov)
 
 
 
