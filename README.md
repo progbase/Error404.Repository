@@ -6,17 +6,19 @@
 
 • Назар Дереворіз [(thesilentist)](https://github.com/thesilentist)  - Product Owner
 
-• Вадим Шкурко [(Vadimuard)](https://github.com/Vadimuard)  - Programmer
-
 • Сергій Сергійчук [(SergiySergiychuk)](https://github.com/SergiySergiychuk)  - Tech Lead
 
-• Маріанна Снітко [(mariannasnitko)](https://github.com/mariannasnitko)  - Vice QA Lead
+• Владислав Мортіков [Vladyslavmortikov](https://github.com/Vladyslavmortikov)  - Scrum Master
 
 • Уляна Дзьоба [(Uliana Dzyoba)](https://github.com/uliana-dzyoba)  - QA Lead
 
+• Маріанна Снітко [(mariannasnitko)](https://github.com/mariannasnitko)  - Vice QA Lead
+
 • Ілля Медведєв [(yeahyeahbbbbb)](https://github.com/yeahyeahbbbbb)  - Programmer
 
-• Владислав Мортіков [Vladyslavmortikov](https://github.com/Vladyslavmortikov)  - Scrum Master
+• Вадим Шкурко [(Vadimuard)](https://github.com/Vadimuard)  - Programmer
+
+
 
 
 
