@@ -4,19 +4,19 @@
 ## Учасники команди:
 
 
-• Назар Дереворіз [(thesilentist)](https://github.com/thesilentist)
+• Назар Дереворіз [(thesilentist)](https://github.com/thesilentist)  - Product Owner
 
-• Вадим Шкурко [(Vadimuard)](https://github.com/Vadimuard)
+• Вадим Шкурко [(Vadimuard)](https://github.com/Vadimuard)  - Programmer
 
-• Сергій Сергійчук [(SergiySergiychuk)](https://github.com/SergiySergiychuk)
+• Сергій Сергійчук [(SergiySergiychuk)](https://github.com/SergiySergiychuk)  - Tech Lead
 
-• Маріанна Снітко [(mariannasnitko)](https://github.com/mariannasnitko)
+• Маріанна Снітко [(mariannasnitko)](https://github.com/mariannasnitko)  - Vice QA Lead
 
-• Уляна Дзьоба [(Uliana Dzyoba)](https://github.com/uliana-dzyoba)
+• Уляна Дзьоба [(Uliana Dzyoba)](https://github.com/uliana-dzyoba)  - QA Lead
 
-• Ілля Медведєв [(yeahyeahbbbbb)](https://github.com/yeahyeahbbbbb)
+• Ілля Медведєв [(yeahyeahbbbbb)](https://github.com/yeahyeahbbbbb)  - Programmer
 
-• Владислав Мортіков [Vladyslavmortikov](https://github.com/Vladyslavmortikov)
+• Владислав Мортіков [Vladyslavmortikov](https://github.com/Vladyslavmortikov)  - Scrum Master
 
 
 
