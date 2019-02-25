@@ -38,3 +38,5 @@
 
 • [Презентація ідеї проекту](https://docs.google.com/presentation/d/1YO2xilD2_seK3neOtgq9rkWlmZL25QIxMGlk7SCvu7w/edit#slide=id.p8)
 
+• [Беклог проекту](https://docs.google.com/spreadsheets/d/1ud2zNyc9ojFkFjIPI_m4nYJfmHwvjubMPevsCUJ6YEs/edit#gid=316488879)
+
