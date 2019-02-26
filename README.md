@@ -40,3 +40,7 @@
 
 • [Беклог проекту](https://docs.google.com/spreadsheets/d/1ud2zNyc9ojFkFjIPI_m4nYJfmHwvjubMPevsCUJ6YEs/edit#gid=316488879)
 
+• [Беклог проекту](https://docs.google.com/spreadsheets/d/1ud2zNyc9ojFkFjIPI_m4nYJfmHwvjubMPevsCUJ6YEs/edit#gid=316488879)
+
+• [Спринт 1](https://docs.google.com/document/d/1BWS7XS6fTFQT4FantMHRSR289QfFkTq4p-8IpyJgImM/edit)
+
