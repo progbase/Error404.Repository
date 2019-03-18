@@ -37,7 +37,7 @@
 
 - [**The 1st sprint tasks**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1881954929)
 
-  + *[Availability of participants](https://docs.google.com/document/d/1BWS7XS6fTFQT4FantMHRSR289QfFkTq4p-8IpyJgImM/edit?usp=sharing)
+  + [*Availability of participants*](https://docs.google.com/document/d/1BWS7XS6fTFQT4FantMHRSR289QfFkTq4p-8IpyJgImM/edit?usp=sharing)
  
    + *[Results](https://docs.google.com/presentation/d/1ClZXCrJGubAZnuRqf14LC2tVShYEtSxuLCiJcGI5ygQ/edit?usp=sharing) ([video](https://youtu.be/9gMXcApxTgU))*
   
