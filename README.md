@@ -1,7 +1,9 @@
 # ***Машинка для прибирання невеликих поверхонь "CLEANING MACHINE"***
  _Pure life for all of us restored again!_
  
- **Developer:** ***#ERROR404.TEAM***
+ <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/42998909/54565974-49b6ef80-49d8-11e9-9b2d-522f97f22bc9.png">
+ 
+ **Developer:** ***#ERROR404.TEAM***        
  
 ### Our Team:
 
