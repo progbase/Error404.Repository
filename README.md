@@ -10,7 +10,7 @@
 
 - [**Назар Дереворіз**](https://github.com/thesilentist)  - Product Owner
 
-- [**Сергій Сергійчук**](https://github.com/SergiySergiychuk)  - Team Lead, Technical leader
+- [**Сергій Сергійчук**](https://github.com/SergiySergiychuk)  - Technical leader
 
 - [**Владислав Мортіков**](https://github.com/Vladyslavmortikov)  - Scrum Master
 
@@ -33,16 +33,22 @@
 
 - [**Project idea (presentation)**](https://docs.google.com/presentation/d/1YO2xilD2_seK3neOtgq9rkWlmZL25QIxMGlk7SCvu7w/edit#slide=id.p8)
 
-- [**Backlog**](https://docs.google.com/spreadsheets/d/1WqmT4MIfVo97zC6Rb0v29bYQMHVAG2oYQPqi4Tz2BnI/edit?usp=sharing)
+- [**Backlog**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1835030796)
 
 - [**The 1st sprint tasks**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1881954929)
 
-  + [*Availability of participants*](https://docs.google.com/document/d/1BWS7XS6fTFQT4FantMHRSR289QfFkTq4p-8IpyJgImM/edit?usp=sharing)
+  + [*Availability of participants*](https://docs.google.com/document/d/1wofBH5FfBGwtOBLcnPo-I4zlI0dnvOW7GZK0kvQOUkk/edit?usp=sharing)
  
    + *[Results](https://docs.google.com/presentation/d/1ClZXCrJGubAZnuRqf14LC2tVShYEtSxuLCiJcGI5ygQ/edit?usp=sharing) ([video](https://youtu.be/9gMXcApxTgU))*
   
    + *[Retrospective](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1742145013)* 
   
+- [**The 2nd sprint tasks**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=896167977)
+   
+   + [*Availability of participants*](https://docs.google.com/document/d/1wofBH5FfBGwtOBLcnPo-I4zlI0dnvOW7GZK0kvQOUkk/edit?usp=sharing)
+     
+     + ***soon***
+        + *Results*
+        + *Retrospective * 
   
-  
-  ####                                          Thank you for attention!
+  ####                                          Welcome to our project page!
