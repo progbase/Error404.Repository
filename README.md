@@ -46,7 +46,7 @@
 - [**The 2nd sprint tasks**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=896167977)
    
    + [*Availability of participants*](https://docs.google.com/document/d/1wofBH5FfBGwtOBLcnPo-I4zlI0dnvOW7GZK0kvQOUkk/edit?usp=sharing)
-   + [*Results](https://drive.google.com/open?id=1zpmhTNiW6Jt4cGCw8Nk9moVXWJN9yEaf), ([video](https://youtu.be/yRmt_idu1l8))*
+   + *[Results](https://drive.google.com/open?id=1zpmhTNiW6Jt4cGCw8Nk9moVXWJN9yEaf), ([video](https://youtu.be/yRmt_idu1l8))*
      
      + ***soon***
         + *video-presentation of project*
