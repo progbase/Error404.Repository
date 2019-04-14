@@ -1,0 +1,89 @@
+#define enA 7
+#define in1 8
+#define in2 9
+#define in3 10
+#define in4 11
+
+//in1 - left forward
+//in2 - left backward
+//in3 - right backward
+//in4 - right forward
+
+char data = 's'; // Variable for storing received data
+
+void setup()
+{
+//   pinMode(enA, OUTPUT);
+//  pinMode(in1, OUTPUT);
+//  pinMode(in2, OUTPUT);
+   Serial.begin(9600);  //Sets the data rate in bits per second (baud) for serial data transmission
+   pinMode(13, OUTPUT); //Sets digital pin 13 as output pin
+}
+
+void machineStop(){
+  digitalWrite(in1,LOW);
+  digitalWrite(in2,LOW);
+  digitalWrite(in3,LOW);
+  digitalWrite(in4,LOW);
+  }
+
+void forward()
+{
+  digitalWrite(in1 , HIGH);
+  digitalWrite(in2, LOW);
+  digitalWrite(in3, LOW);
+  digitalWrite(in4,HIGH);
+  }
+
+void backward()
+{
+  digitalWrite(in1 , LOW);
+  digitalWrite(in2, HIGH);
+  digitalWrite(in3, HIGH);
+  digitalWrite(in4,LOW);
+}
+void left()
+{
+  digitalWrite(in1 , LOW);
+  digitalWrite(in2, LOW);
+  digitalWrite(in3, LOW);
+  digitalWrite(in4,HIGH);
+}
+void right ()
+{
+  digitalWrite(in1 , HIGH);
+  digitalWrite(in2, LOW);
+  digitalWrite(in3, LOW);
+  digitalWrite(in4,LOW);
+  
+}
+void loop()
+{
+  
+     if (Serial.available() > 0)     // Read data only when you receive data:
+   {
+       data = Serial.read();       //Read the incoming data and store it into variable
+       Serial.print(data);         //Print Value inside data in Serial monitor
+       Serial.print("\n");         //New line
+       if (data == 'f')  {          //Checks whether value of data is equal to 1
+           forward();
+//           data = 's';
+           }
+       else if (data == 'b') {      //Checks whether value of data is equal to 0
+           backward();
+//           data = 's';
+           }
+           else if (data == 's'){
+           machineStop();
+           }
+           else if(data == 'r'){
+            right();
+//            data = 's';
+            }
+            else if (data == 'l'){
+           left();
+//           data = 's';
+           }
+   }
+   
+}
