@@ -1,3 +1,5 @@
+#include <Servo.h>
+
 #define enA 7
 #define in1 8
 #define in2 9
@@ -9,16 +11,18 @@
 //in3 - right backward
 //in4 - right forward
 
-char data = 's'; // Variable for storing received data
+char data = 's';
+Servo servo;
+Servo servo1;
+int pos = 0; 
 
-void setup()
-{
-//   pinMode(enA, OUTPUT);
-//  pinMode(in1, OUTPUT);
-//  pinMode(in2, OUTPUT);
-   Serial.begin(9600);  //Sets the data rate in bits per second (baud) for serial data transmission
-   pinMode(13, OUTPUT); //Sets digital pin 13 as output pin
+
+
+void setup() {
+servo.attach(4);
+ Serial.begin(9600);
 }
+
 
 void machineStop(){
   digitalWrite(in1,LOW);
@@ -57,33 +61,85 @@ void right ()
   digitalWrite(in4,LOW);
   
 }
-void loop()
+
+void up()
+{
+   servo.attach(4);
+   servo1.attach(3);
+  servo.write(150);
+delay(210);
+
+servo.attach(0);
+}
+
+void down()
+{
+  servo.attach(4);
+servo.write(20);
+delay(90);
+servo.attach(0);
+
+}
+
+void clean()
 {
   
-     if (Serial.available() > 0)     // Read data only when you receive data:
+for (int i = 0; i < 180; i= i+10)
+{
+  servo1.write(i);
+  delay(25);
+}
+
+
+for (int i = 180; i > 0; i= i-10)
+{
+  servo1.write(i);
+  delay(25);
+}
+  
+}
+
+
+void loop() {
+  if (Serial.available() > 0)     // Read data only when you receive data:
    {
-       data = Serial.read();       //Read the incoming data and store it into variable
-       Serial.print(data);         //Print Value inside data in Serial monitor
-       Serial.print("\n");         //New line
-       if (data == 'f')  {          //Checks whether value of data is equal to 1
+   data = Serial.read();
+if (data != 's')  
+{
+   if (data == 'f') 
+   {        
            forward();
-//           data = 's';
            }
-       else if (data == 'b') {      //Checks whether value of data is equal to 0
+       else if (data == 'b') {    
            backward();
-//           data = 's';
            }
            else if (data == 's'){
            machineStop();
            }
            else if(data == 'r'){
             right();
-//            data = 's';
             }
             else if (data == 'l'){
            left();
-//           data = 's';
-           }
    }
-   
+   if (data == '1')
+   {
+    up();
+    data = 's';
+   }
+   if (data == '2')
+   {
+    down();
+    data = 's';
+   }
+   if (data == '3')
+   {
+   clean(); 
+   }
+}
+else
+{
+  machineStop();
+}
+}
 }
