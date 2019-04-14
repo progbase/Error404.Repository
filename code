@@ -101,45 +101,50 @@ for (int i = 180; i > 0; i= i-10)
 
 
 void loop() {
-  if (Serial.available() > 0)     // Read data only when you receive data:
-   {
-   data = Serial.read();
-if (data != 's')  
+if (Serial.available() > 0)     // Read data only when you receive data:
 {
-   if (data == 'f') 
-   {        
-           forward();
-           }
-       else if (data == 'b') {    
-           backward();
-           }
-           else if (data == 's'){
-           machineStop();
-           }
-           else if(data == 'r'){
-            right();
-            }
-            else if (data == 'l'){
-           left();
-   }
-   if (data == '1')
-   {
-    up();
-    data = 's';
-   }
-   if (data == '2')
-   {
-    down();
-    data = 's';
-   }
-   if (data == '3')
-   {
-   clean(); 
-   }
+  data = Serial.read();
+  if (data != 's')  
+  {
+     if (data == 'f') 
+     {        
+        forward();
+     }
+     else if (data == 'b')
+	 {    
+        backward();
+     }
+     else if (data == 's')
+	 {
+        machineStop();
+     }
+     else if(data == 'r')
+	 {
+	    right();
+     }
+     else if (data == 'l')
+	 {
+        left();
+     }
+     if (data == '1')
+     {
+        up();
+        data = 's';
+     }
+     if (data == '2')
+     {
+        down();
+        data = 's';
+     }
+     if (data == '3')
+     {
+        clean(); 
+     }
+  }
+    else
+  {
+     machineStop();
+  }
 }
-else
-{
-  machineStop();
-}
-}
+
 }
