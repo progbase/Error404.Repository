@@ -50,6 +50,6 @@
      
      + ***soon***
         + *video-presentation of project*
-        +  *doc*
+        +  [*doc*](https://github.com/progbase/Error404.Repository/blob/master/documentation.md)
   
   ####                                          Welcome to our project page!
