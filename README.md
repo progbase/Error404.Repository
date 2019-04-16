@@ -33,6 +33,10 @@
 
 - [**Project idea (presentation)**](https://docs.google.com/presentation/d/1YO2xilD2_seK3neOtgq9rkWlmZL25QIxMGlk7SCvu7w/edit#slide=id.p8)
 
+- [**Documentation of the project**](https://github.com/progbase/Error404.Repository/blob/master/documentation.md)
+
+- [**Promo**](https://youtu.be/PnvdssKj834)
+
 - [**Backlog**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1835030796)
 
 - [**The 1st sprint tasks**](https://docs.google.com/spreadsheets/d/1bOTkGiAZ-GSStaJISKwb2BiT2GmJnZ2T9XccXKG0388/edit#gid=1881954929)
@@ -47,9 +51,6 @@
    
    + [*Availability of participants*](https://docs.google.com/document/d/1wofBH5FfBGwtOBLcnPo-I4zlI0dnvOW7GZK0kvQOUkk/edit?usp=sharing)
    + *[Results](https://drive.google.com/open?id=1zpmhTNiW6Jt4cGCw8Nk9moVXWJN9yEaf), ([video](https://youtu.be/yRmt_idu1l8))*
-     
-     + ***soon***
-        + *video-presentation of project*
-        +  [*doc*](https://github.com/progbase/Error404.Repository/blob/master/documentation.md)
+       
   
-  ####                                          Welcome to our project page!
+  ####                                         PROJECT WAS SUCCESSFULLY ENDED ON APRIL, 17!
